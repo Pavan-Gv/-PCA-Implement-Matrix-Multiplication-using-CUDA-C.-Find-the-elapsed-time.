@@ -17,8 +17,8 @@ Step 5 : Save the program and execute it .
 
 ### Program
 ```
-Developed By: G Venkata Pavan Kumar
-Reg. No: 212221240013
+Developed By: Palamakula Deepika
+Reg. No: 212221240035
 ```
 
 ```
